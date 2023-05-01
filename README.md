@@ -1,1 +1,5 @@
 # SAS
+
+Program for reading all folder and subfolder sas7bdat and create record count.
+Create an entry of each file record_count.sas7bdat. With below format.
+Create one text file for reading rcdcnt.txt.
