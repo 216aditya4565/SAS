@@ -1,0 +1,8 @@
+airline,32,UBL
+alcohol,1000,UBL
+andy,75,UBL
+asparas,200,BL
+bangla,34,BL
+beer,30,BL
+bond,102,BL
+record_count,7,N/A
